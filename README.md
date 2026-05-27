@@ -65,19 +65,24 @@ flowchart TD
 ## 🖼️ Project Images  
 
 ## 🔧 Hardware Prototype  
-![Hardware](./assets/hardware.jpg)
+![Hardware](https://github.com/Manish-Kushvaha/TrashBot-App-Driven-Robotic-Dustbin/blob/b230924d3c1d344adba835a0813db232dcda4185/assets/Hardware%20Prototype.png)
 
 ## 📱 Mobile Application UI  
-![App UI](./assets/app_ui.jpg)
+![App UI](https://github.com/Manish-Kushvaha/TrashBot-App-Driven-Robotic-Dustbin/blob/b230924d3c1d344adba835a0813db232dcda4185/assets/MAPP1.png)
+
+![App UI](https://github.com/Manish-Kushvaha/TrashBot-App-Driven-Robotic-Dustbin/blob/b230924d3c1d344adba835a0813db232dcda4185/assets/MAPP2.png)
+
+## System Design
+![System Design](https://github.com/Manish-Kushvaha/TrashBot-App-Driven-Robotic-Dustbin/blob/b230924d3c1d344adba835a0813db232dcda4185/assets/System%20Design.jpeg)
 
 ## 📊 Project Poster  
-![Poster](./assets/poster.jpg)
+![Poster](https://github.com/Manish-Kushvaha/TrashBot-App-Driven-Robotic-Dustbin/blob/b230924d3c1d344adba835a0813db232dcda4185/assets/System%20Poster.jpeg)
 
 ---
 
 ## 🎥 Demo Video  
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch Demo]()
 
 ---
 
