@@ -122,15 +122,6 @@ flowchart TD
 
 ---
 
-## 👨‍💻 Team  
-
-- Manish Kushvaha  
-- MD Aman Ahmad  
-- Vaibhav Pratap Mishra  
-- Abhishek Revankar  
-
----
-
 ## 📜 License  
 
 This project is for **academic and research purposes**.  
