@@ -27,13 +27,13 @@ It reduces manual effort, improves accuracy, and encourages responsible waste di
 ## 🧠 How It Works  
 
 flowchart TD
-A[User Drops Waste] --> B[Slider 1]
-B --> C[Sponge Rollers]
-C --> D[Slider 2]
-D --> E[Camera Capture]
-E --> F[AI Classification]
-F --> G[Robotic Arm Sorting]
-G --> H[Waste Segregated into Bin]
+- A[User Drops Waste] --> B[Slider 1]
+- B --> C[Sponge Rollers]
+- C --> D[Slider 2]
+- D --> E[Camera Capture]
+- E --> F[AI Classification]
+- F --> G[Robotic Arm Sorting]
+- G --> H[Waste Segregated into Bin]
 
 ## 🏗️ System Architecture  
 
