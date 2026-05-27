@@ -36,18 +36,16 @@ E --> F[AI Classification]
 F --> G[Robotic Arm Sorting]
 G --> H[Waste Segregated into Bin]
 
----
-
 ## 🏗️ System Architecture  
 
-### 🔹 Hardware Layer  
+## 🔹 Hardware Layer  
 - Raspberry Pi (Controller)  
 - Servo Motors (Robotic Arm)  
 - Gear Motors (Sliders)  
 - Ultrasonic Sensors  
 - Camera Module  
 
-### 🔹 Software Layer  
+## 🔹 Software Layer  
 - **Backend:** Spring Boot  
 - **Database:** PostgreSQL  
 - **Mobile App:** Android (Kotlin + XML)  
@@ -67,13 +65,13 @@ G --> H[Waste Segregated into Bin]
 
 ## 🖼️ Project Images  
 
-### 🔧 Hardware Prototype  
+## 🔧 Hardware Prototype  
 ![Hardware](./assets/hardware.jpg)
 
-### 📱 Mobile Application UI  
+## 📱 Mobile Application UI  
 ![App UI](./assets/app_ui.jpg)
 
-### 📊 Project Poster  
+## 📊 Project Poster  
 ![Poster](./assets/poster.jpg)
 
 ---
