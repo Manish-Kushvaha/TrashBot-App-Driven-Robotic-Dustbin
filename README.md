@@ -26,7 +26,6 @@ It reduces manual effort, improves accuracy, and encourages responsible waste di
 
 ## 🧠 How It Works  
 
-```mermaid
 flowchart TD
 A[User Drops Waste] --> B[Slider 1]
 B --> C[Sponge Rollers]
