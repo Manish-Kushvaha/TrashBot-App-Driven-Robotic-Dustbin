@@ -82,7 +82,7 @@ flowchart TD
 
 ## 🎥 Demo Video  
 
-👉 [Click to Watch Demo](./assets/Project Demo.mp4)
+download: [Local Video](./assets/Project%20Demo.mp4)
 
 ---
 
